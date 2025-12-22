@@ -4,6 +4,7 @@
 A complete gym administration solution that handles memberships, trainer scheduling, class bookings, and capacity management.
 
 ---
+**📺 Demo Video:** https://youtu.be/ezgCAn-9zfM?feature=shared
 
 ## ✨ FEATURES
 - **Member Management** – Add, view, update, and remove members
